@@ -1,0 +1,12 @@
+name: myApp
+title: myApp
+username:
+account: liruoshi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1984308
+bundleId: 2915253
+url: https://liruoshi.shinyapps.io/myApp/
+when: 1585002984.32675
+asMultiple: FALSE
+asStatic: FALSE
